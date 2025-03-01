@@ -1,3 +1,10 @@
+import { IconPackage } from '@tabler/icons-react'
+
 export default function Home() {
-  return <h1>Hello World</h1>
+  return (
+    <div className="flex h-screen items-center justify-center">
+      <IconPackage />
+      <h1>Next.js Starter Project</h1>
+    </div>
+  )
 }
