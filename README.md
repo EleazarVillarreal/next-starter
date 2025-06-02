@@ -1,6 +1,6 @@
 # 📦 Next Starter
 
-This is a [Next.js](https://nextjs.org) starter project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) with additional boilerplate code for quickly starting a new project.
+This is a [Next.js](https://nextjs.org) starter template bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) with additional boilerplate code for quickly starting a new project.
 
 ## Getting Started
 
