@@ -26,7 +26,9 @@ export default function RootLayout({
           rel="icon"
         />
       </head>
-      <body className={`${inter.className} antialiased`}>{children}</body>
+      <body className={`${inter.className} antialiased`}>
+        <main>{children}</main>
+      </body>
     </html>
   )
 }

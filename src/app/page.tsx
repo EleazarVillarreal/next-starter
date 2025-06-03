@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <main>
-      <h1>Next.js Starter Project</h1>
-    </main>
-  )
+  return <h1>Next.js Starter Template</h1>
 }
