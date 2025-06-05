@@ -1,1 +1,9 @@
 @import 'tailwindcss';
+@import './theme.css';
+@import './utilities.css';
+@import './custom-colors.css';
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}

@@ -26,8 +26,10 @@ export default function RootLayout({
           rel="icon"
         />
       </head>
-      <body className={`${inter.className} antialiased`}>
-        <main>{children}</main>
+      <body
+        className={`${inter.className} flex h-screen w-screen flex-col antialiased`}
+      >
+        {children}
       </body>
     </html>
   )

@@ -1,0 +1,7 @@
+@utility gradient-text {
+  @apply from-primary to-accent bg-gradient-to-r bg-clip-text text-transparent;
+}
+
+@utility flex-center {
+  @apply flex items-center justify-center;
+}
